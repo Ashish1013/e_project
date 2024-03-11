@@ -2,11 +2,13 @@
 
 Project: A slack-bot that is able to do contexual conversations based on google documents.
 
-![image](https://github.com/Ashish1013/ema/assets/25063446/0b57e886-d449-4d76-a55c-a0b911356ca8)
+![image](https://github.com/Ashish1013/e_project/assets/25063446/65dee6c0-48ee-4806-b791-16e64bee7882)
+
 
 Limitations: There are many as of now. Refer the image below to know more.
 
-![image](https://github.com/Ashish1013/ema/assets/25063446/a41514d2-97c7-417d-92de-62c215267c7a)
+![image](https://github.com/Ashish1013/e_project/assets/25063446/944bbe7f-2381-48c4-94a0-6cd8c474ac18)
+
 _________________________________________________________________________________________________________
 This project uses a Python virtual environment to manage dependencies.
 
@@ -37,6 +39,10 @@ This includes steps to get your SLACK_BOT_TOKEN and SLACK_APP_TOKEN tokens.
 https://slack.dev/bolt-python/tutorial/getting-started
 https://api.slack.com/tutorials/tracks/responding-to-app-mentions
 https://api.slack.com/messaging/retrieving
+
+## OpenAI API Key
+Create an OpenAI account and get the API key using the following link. https://platform.openai.com/api-keys
+Put this link at an appropriate place in the main.py
 
 ## Google authentication setup
 
