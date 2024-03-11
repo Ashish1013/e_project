@@ -1,0 +1,9 @@
+llama-index
+google_auth_oauthlib
+langchain
+llama-index-llms-openai
+llama-index-readers-google
+slack
+slack_sdk
+slack_bolt
+certifi
